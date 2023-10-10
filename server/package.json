@@ -8,7 +8,7 @@
     "node": ">=20.7.0"
   },
   "scripts": {
-    "start": "nodemon index"
+    "server": "nodemon index"
   },
   "keywords": [],
   "author": "",
